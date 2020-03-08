@@ -2,3 +2,6 @@ name: Siva
 age: 34
 address: "hyderabad: dfd"
 active: true
+key:
+  key1: value1
+  key2: 333
